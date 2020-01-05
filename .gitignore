@@ -1,1 +1,3 @@
 /fittube/public/assets/*
+/fittube/build/*
+/.idea/*
